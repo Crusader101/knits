@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -416,6 +416,20 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-l .mbr-section-title,
+#header3-l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-l H3 {
+  color: #b8312f;
+  font-size: 30px;
+}
+#header3-l SMALL {
+  color: #232323;
+}
+#header3-l SPAN {
+  font-family: 'Lora', serif;
+}
 #msg-box5-1 H3 {
   color: #b8312f;
   text-align: center;
@@ -441,10 +455,10 @@ h6,
 #header3-6 H3 {
   font-size: 30px;
   color: #b8312f;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lora', serif;
 }
 #header3-6 I {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Lora', serif;
 }
 #header3-6 SPAN {
   font-family: 'Titillium Web', sans-serif;
@@ -482,4 +496,14 @@ h6,
 }
 #header3-b SMALL {
   color: #232323;
+}
+#features3-g H4 {
+  font-size: 23px;
+}
+#form1-j .form-control-label {
+  color: #232323;
+}
+#form1-j SMALL {
+  font-size: 22px;
+  color: #28324e;
 }
